@@ -1,1 +1,0 @@
-![](Emulair-Banner-Pixelated.png)
