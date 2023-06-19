@@ -1,6 +1,7 @@
+<!--
 ![](profile/emulair-banner-pixelated-transparent.png)
-
-## Contributors
+-->
+## 💖 Contributors
 
 [Emulair]: https://contrib.rocks/image?repo=Emulair/Emulair&max=16
 [SuperLibretroDroid]: https://contrib.rocks/image?repo=Emulair/SuperLibretroDroid&max=16
@@ -12,5 +13,5 @@
 | [SuperLibretroDroid](https://github.com/Emulair/SuperLibretroDroid)           | [![SuperLibretroDroid]](https://github.com/Emulair/SuperLibretroDroid/graphs/contributors)       |
 | [Libretro2SQLite](https://github.com/Emulair/Libretro2SQLite)                 | [![Libretro2SQLite]](https://github.com/Emulair/Libretro2SQLite/graphs/contributors)             |
 
-## Donations
+## 💰 Donations
 Not available yet.
